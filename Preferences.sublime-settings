@@ -1,0 +1,17 @@
+{
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
+}
