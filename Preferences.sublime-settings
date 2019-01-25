@@ -13,11 +13,8 @@
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-
-    // Characters that are considered to separate words
-    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
-
-    // Vintage mode
+	"typewriter_mode_scrolling": true,
+	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": true,
-	"vintage_start_in_command_mode": true
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_"
 }

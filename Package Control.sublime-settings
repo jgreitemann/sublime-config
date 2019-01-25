@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"BufferScroll",
 		"CMake",
 		"Git",
 		"GitGutter",
@@ -13,6 +12,7 @@
 		"SublimeLinter",
 		"SublimeLinter-clang",
 		"Surround",
+		"Typewriter",
 		"Vintage Surround"
 	],
 	"repositories":
