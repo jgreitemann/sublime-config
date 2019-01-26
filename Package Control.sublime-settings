@@ -10,7 +10,7 @@
 		"GitGutter",
 		"Package Control",
 		"SublimeLinter",
-		"SublimeLinter-clang",
+		"SublimeLinter-gcc",
 		"Surround",
 		"Typewriter",
 		"Vintage Surround"

@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+	"linters":
+    {
+        "gcc": {
+        	"args": [
+        		"-Wall",
+        		"-Wextra",
+        	]
+        },
+    },
+}
