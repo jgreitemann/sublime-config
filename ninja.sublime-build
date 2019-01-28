@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "cd ${project_path}/build && ninja",
+	"selector": "source.c++",
+}
