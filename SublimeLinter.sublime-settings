@@ -6,7 +6,11 @@
         	"args": [
         		"-Wall",
         		"-Wextra",
-        	]
+        		"-fsyntax-only",
+        	],
+        	"filter_errors": [
+        		"pragma once in main file",
+        	],
         },
     },
 }
