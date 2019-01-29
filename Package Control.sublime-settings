@@ -8,6 +8,8 @@
 		"CMake",
 		"Git",
 		"GitGutter",
+		"LaTeX-cwl",
+		"LaTeXing",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-gcc",
