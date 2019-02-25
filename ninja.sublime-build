@@ -1,5 +1,6 @@
 {
-	"shell_cmd": "cd ${project_path}/build && ninja",
+	"shell_cmd": "ninja",
+	"working_dir": "${project_path:${folder}}/build",
 	"selector": "source.c++",
 	"file_regex": "../([^:]*):([0-9]+):?([0-9]+)?:? ((error|warning):.*)$",
 }
