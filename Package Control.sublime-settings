@@ -6,8 +6,6 @@
 	"installed_packages":
 	[
 		"CMake",
-		"Git",
-		"GitGutter",
 		"LaTeX-cwl",
 		"LaTeXing",
 		"Package Control",
