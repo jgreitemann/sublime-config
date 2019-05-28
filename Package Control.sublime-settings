@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"CMake",
+		"Gnuplot",
 		"LaTeX-cwl",
 		"LaTeXing",
 		"Package Control",
