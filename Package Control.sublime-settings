@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Clang Format",
 		"CMake",
 		"EasyClangComplete",
 		"Gnuplot",
