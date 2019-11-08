@@ -7,6 +7,7 @@
 	[
 		"Clang Format",
 		"CMake",
+		"CMakeBuilder",
 		"EasyClangComplete",
 		"Gnuplot",
 		"INI",
